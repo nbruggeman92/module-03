@@ -19,7 +19,7 @@ Click on the provided URLs to access my project.
 ![picture1](/images/project3screenshot1.jpg)
 ![picture2](/images/project3screenshot2.jpg)
 
-Live Link: 
+Live Link: https://nbruggeman92.github.io/payroll-tracker-js-imp/
 
 ## License
 
