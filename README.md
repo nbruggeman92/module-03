@@ -1,6 +1,4 @@
-# Employee Payroll Tracker Starter Code
-
-# Module-03-Challenge
+# payroll-tracker-js-imp
 
 ## Description
 
@@ -11,6 +9,17 @@
 ## Installation
 
 Click on the provided URLs to access my project.
+
+## Technology Used
+
+-JavaScript/HTML/CSS
+
+## Usage
+
+![picture1](/images/project3screenshot1.jpg)
+![picture2](/images/project3screenshot2.jpg)
+
+Live Link: 
 
 ## License
 
